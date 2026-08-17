@@ -43,32 +43,59 @@
 
 # 🎬 ABOUT ME
 
-I'm a Computer Science Engineering student passionate about **frontend development, interactive interfaces, and problem solving**.
+<div align="center">
 
-I enjoy transforming ideas into responsive and visually engaging web applications using modern web technologies.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:00F7FF,100:7A00FF&height=3&section=header"/>
 
-```javascript
-const navneet = {
-    education: "B.Tech Computer Science & Engineering",
-    university: "United University",
-    graduation: 2027,
+<h2>👨‍💻 Navneet Kumar</h2>
 
-    focus: [
-        "Frontend Development",
-        "React.js",
-        "JavaScript",
-        "Firebase",
-        "DSA"
-    ],
+<p>
+<b>Computer Science Engineering Student</b> • 
+<b>Frontend Developer</b> • 
+<b>React.js Developer</b>
+</p>
 
-    currentlyLearning: [
-        "Advanced React",
-        "Full Stack Development",
-        "Data Structures & Algorithms"
-    ],
+<p>
+I build <b>interactive, responsive and visually engaging</b>
+web applications using modern technologies.
+</p>
 
-    mindset: "Learn → Build → Break → Fix → Repeat 🚀"
-};
+<table>
+<tr>
+<td align="center"><b>🎓 Education</b></td>
+<td>B.Tech CSE</td>
+</tr>
+
+<tr>
+<td align="center"><b>🏫 University</b></td>
+<td>United University</td>
+</tr>
+
+<tr>
+<td align="center"><b>📍 Location</b></td>
+<td>Prayagraj, India</td>
+</tr>
+
+<tr>
+<td align="center"><b>🚀 Focus</b></td>
+<td>React • JavaScript • Firebase • DSA</td>
+</tr>
+
+<tr>
+<td align="center"><b>🎯 Goal</b></td>
+<td>Building modern digital experiences</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Learn+%E2%86%92+Build+%E2%86%92+Improve;Code+%E2%86%92+Create+%E2%86%92+Repeat;Always+Learning+%F0%9F%9A%80" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+</div>
 ```
 
 ---
