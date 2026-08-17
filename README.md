@@ -12,11 +12,17 @@
 
 **B.Tech CSE @ United University | React.js | JavaScript | Firebase | DSA**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&label=PROFILE%20VIEWS\&color=00F7FF\&style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=for-the-badge\&logo=leetcode\&logoColor=FFA116)](https://leetcode.com/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-0F9D58?style=for-the-badge\&logo=geeksforgeeks\&logoColor=white)](https://www.geeksforgeeks.org/)
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=navneetsingh9240\&label=PROFILE%20VIEWS\&color=00F7FF\&style=for-the-badge)](https://github.com/navneetsingh9240)
+[![GitHub](https://img.shields.io/badge/GitHub-navneetsingh9240-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/navneetsingh9240)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-@_navneetsingh_11-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/_navneetsingh_11/)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:7A00FF,100:050505&height=3"/>
 
 </div>
 
@@ -31,8 +37,10 @@
 ║ STATUS        : ONLINE                                  ║
 ║ ROLE          : FRONTEND DEVELOPER                      ║
 ║ EDUCATION     : B.Tech CSE                              ║
-║ UNIVERSITY    : United University                        ║
+║ UNIVERSITY    : United University                       ║
 ║ LOCATION      : Prayagraj, India                        ║
+║ GITHUB        : navneetsingh9240                        ║
+║ INSTAGRAM     : @_navneetsingh_11                       ║
 ║ CURRENT MODE  : BUILD • LEARN • CREATE                  ║
 ╚══════════════════════════════════════════════════════════╝
 ```
@@ -50,8 +58,8 @@
 <h2>👨‍💻 Navneet Kumar</h2>
 
 <p>
-<b>Computer Science Engineering Student</b> • 
-<b>Frontend Developer</b> • 
+<b>Computer Science Engineering Student</b> •
+<b>Frontend Developer</b> •
 <b>React.js Developer</b>
 </p>
 
@@ -63,7 +71,7 @@ web applications using modern technologies.
 <table>
 <tr>
 <td align="center"><b>🎓 Education</b></td>
-<td>B.Tech CSE</td>
+<td>B.Tech Computer Science & Engineering</td>
 </tr>
 
 <tr>
@@ -83,20 +91,29 @@ web applications using modern technologies.
 
 <tr>
 <td align="center"><b>🎯 Goal</b></td>
-<td>Building modern digital experiences</td>
+<td>Building Modern Digital Experiences</td>
+</tr>
+
+<tr>
+<td align="center"><b>💻 GitHub</b></td>
+<td>navneetsingh9240</td>
+</tr>
+
+<tr>
+<td align="center"><b>📸 Instagram</b></td>
+<td>@_navneetsingh_11</td>
 </tr>
 </table>
 
-<br>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Learn+%E2%86%92+Build+%E2%86%92+Improve;Code+%E2%86%92+Create+%E2%86%92+Repeat;Always+Learning+%F0%9F%9A%80" />
 
-<br>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 </div>
-```
 
 ---
 
@@ -130,22 +147,22 @@ web applications using modern technologies.
 
 ## 🥕 FARMER MARKETPLACE
 
-**Connecting Farmers Directly With Customers**
+### Connecting Farmers Directly With Customers
 
 ```text
-FARMER
-   │
-   ▼
-PRODUCT LISTING
-   │
-   ▼
-CUSTOMER
-   │
-   ▼
-CART
-   │
-   ▼
-ORDER
+              👨‍🌾 FARMER
+                  │
+                  ▼
+          📦 PRODUCT LISTING
+                  │
+                  ▼
+             👤 CUSTOMER
+                  │
+                  ▼
+               🛒 CART
+                  │
+                  ▼
+              📋 ORDER
 ```
 
 ### 🧩 Tech Stack
@@ -161,11 +178,15 @@ ORDER
 * 📱 Responsive interface
 * 🔎 Product discovery
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🍳 RECIPE APP
 
-**Interactive Recipe Discovery Platform**
+### Interactive Recipe Discovery Platform
 
 ### ⚡ Features
 
@@ -179,11 +200,15 @@ ORDER
 
 `HTML` `CSS` `JavaScript` `REST API`
 
+</div>
+
 ---
+
+<div align="center">
 
 ## ☕ MINI CAFE MANAGEMENT SYSTEM
 
-**Modern Cafe Management Interface**
+### Modern Cafe Management Interface
 
 ### ⚡ Features
 
@@ -205,17 +230,13 @@ ORDER
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00F7FF&icon_color=7A00FF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=navneetsingh9240&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00F7FF&icon_color=7A00FF" width="49%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=050505&ring=00F7FF&fire=7A00FF&currStreakLabel=00F7FF" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=navneetsingh9240&theme=tokyonight&hide_border=true&background=050505&ring=00F7FF&fire=7A00FF&currStreakLabel=00F7FF" width="49%" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00F7FF" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneetsingh9240&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00F7FF" />
 
 </div>
 
@@ -235,23 +256,33 @@ ORDER
 
 <div align="center">
 
-### 🟢 Problem Solving
+### 🟢 PROBLEM SOLVING
 
 ```text
-DSA
- │
- ├── Arrays
- ├── Strings
- ├── Searching
- ├── Sorting
- ├── Recursion
- ├── Dynamic Programming
- └── Problem Solving
+                 🧠 DSA
+                   │
+        ┌──────────┼──────────┐
+        ▼          ▼          ▼
+     Arrays     Strings    Searching
+        │          │          │
+        └──────────┼──────────┘
+                   ▼
+                Sorting
+                   │
+                   ▼
+               Recursion
+                   │
+                   ▼
+          Dynamic Programming
+                   │
+                   ▼
+            Problem Solving
 ```
 
-### 🏆 Coding Platforms
+### 🏆 CODING PLATFORMS
 
 [![LeetCode](https://img.shields.io/badge/LEETCODE-Problem%20Solving-FFA116?style=for-the-badge\&logo=leetcode)](https://leetcode.com/)
+
 [![GeeksForGeeks](https://img.shields.io/badge/GEEKSFORGEEKS-DSA-0F9D58?style=for-the-badge\&logo=geeksforgeeks)](https://www.geeksforgeeks.org/)
 
 </div>
@@ -308,17 +339,17 @@ Worked on responsive web pages while gaining practical experience with modern we
 # 🧪 CURRENTLY IN THE LAB
 
 ```text
-╭────────────────────────────────────────╮
-│            CURRENT MISSION              │
-├────────────────────────────────────────┤
-│                                        │
-│  ████████████████████░░  90% React     │
-│  █████████████████░░░░░  75% JavaScript│
-│  ███████████████░░░░░░░  70% DSA       │
-│  ██████████████░░░░░░░░  65% Firebase  │
-│  ████████████░░░░░░░░░░  60% Backend  │
-│                                        │
-╰────────────────────────────────────────╯
+╭────────────────────────────────────────────╮
+│              CURRENT MISSION               │
+├────────────────────────────────────────────┤
+│                                            │
+│  ⚛️ React.js          ████████████████░░ 90%│
+│  🟨 JavaScript        ██████████████░░░░ 75%│
+│  🧠 DSA               █████████████░░░░░ 70%│
+│  🔥 Firebase          ████████████░░░░░░ 65%│
+│  ⚙️ Backend            ███████████░░░░░░░ 60%│
+│                                            │
+╰────────────────────────────────────────────╯
 ```
 
 > 🔭 Building projects
@@ -337,7 +368,13 @@ Worked on responsive web pages while gaining practical experience with modern we
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
 
+<br/>
+
 **"Every project is another level unlocked." 🎮**
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&pause=1500&color=7A00FF&center=true&vCenter=true&width=700&lines=Stay+Curious.;Keep+Building.;Keep+Learning.;Keep+Leveling+Up." />
 
 </div>
 
@@ -347,19 +384,43 @@ Worked on responsive web pages while gaining practical experience with modern we
 
 <div align="center">
 
+### 🌐 FIND ME ONLINE
+
+<br/>
+
+<a href="https://github.com/navneetsingh9240">
+<img src="https://img.shields.io/badge/GitHub-navneetsingh9240-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 <a href="mailto:navneetsingh9240@gmail.com">
 <img src="https://img.shields.io/badge/Email-navneetsingh9240%40gmail.com-00F7FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-Follow%20My%20Journey-000000?style=for-the-badge&logo=github"/>
+<a href="https://www.instagram.com/_navneetsingh_11/">
+<img src="https://img.shields.io/badge/Instagram-@_navneetsingh_11-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/">
+<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:7A00FF,100:050505&height=3"/>
+
+<br/>
+
+**📧 [navneetsingh9240@gmail.com](mailto:navneetsingh9240@gmail.com)**
+
+**🐙 github.com/navneetsingh9240**
+
+**📸 instagram.com/_navneetsingh_11**
 
 </div>
 
@@ -373,6 +434,9 @@ Worked on responsive web pages while gaining practical experience with modern we
 
 **If you like my work, consider ⭐ starring my repositories!**
 
+<br/>
+
 `© Navneet Kumar • Built with Code & Curiosity`
 
 </div>
+
