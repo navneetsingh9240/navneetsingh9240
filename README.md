@@ -38,9 +38,7 @@
 ║ ROLE          : FRONTEND DEVELOPER                      ║
 ║ EDUCATION     : B.Tech CSE                              ║
 ║ UNIVERSITY    : United University                       ║
-║ LOCATION      : Prayagraj, India                        ║
-║ GITHUB        : navneetsingh9240                        ║
-║ INSTAGRAM     : @_navneetsingh_11                       ║
+║ LOCATION      : Prayagraj, India                        ║ ║
 ║ CURRENT MODE  : BUILD • LEARN • CREATE                  ║
 ╚══════════════════════════════════════════════════════════╝
 ```
@@ -94,14 +92,6 @@ web applications using modern technologies.
 <td>Building Modern Digital Experiences</td>
 </tr>
 
-<tr>
-<td align="center"><b>💻 GitHub</b></td>
-<td>navneetsingh9240</td>
-</tr>
-
-<tr>
-<td align="center"><b>📸 Instagram</b></td>
-<td>@_navneetsingh_11</td>
 </tr>
 </table>
 
