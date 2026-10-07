@@ -1,240 +1,267 @@
-# 👋 Hey, I'm Navneet Kumar
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Frontend+Developer;React.js+Developer;JavaScript+Enthusiast;DSA+Problem+Solver;Building+Digital+Experiences" />
+# NAVNEET KUMAR
+
+### `COMPUTER SCIENCE ENGINEERING STUDENT · FRONTEND DEVELOPER · BUILDER`
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Digital+Experiences;React.js+%7C+JavaScript+%7C+Firebase;Turning+Ideas+Into+Real+Products;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:00F7FF,100:7A00FF&height=120&section=header&animation=twinkling"/>
-
-### 🚀 Turning Ideas Into Interactive Digital Experiences
-
-**B.Tech CSE @ United University | React.js | JavaScript | Firebase | DSA**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:00F7FF,100:7A00FF&height=140&section=header&animation=twinkling"/>
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=navneetsingh9240\&label=PROFILE%20VIEWS\&color=00F7FF\&style=for-the-badge)](https://github.com/navneetsingh9240)
-[![GitHub](https://img.shields.io/badge/GitHub-navneetsingh9240-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/navneetsingh9240)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-@_navneetsingh_11-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/_navneetsingh_11/)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/)
+[![Profile Views](https://komarev.com/ghpvc/?username=navneetsingh9240&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge)](https://github.com/navneetsingh9240)
+[![GitHub](https://img.shields.io/badge/GitHub-navneetsingh9240-050505?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navneetsingh9240)
+[![Email](https://img.shields.io/badge/Email-Contact-00F7FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navneetsingh9240@gmail.com)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:7A00FF,100:050505&height=3"/>
+`B.Tech CSE @ United University`  
+`Prayagraj, India`
 
 </div>
 
 ---
 
-## 🧬 SYSTEM INITIALIZED
+<div align="center">
+
+## ◈ THE DEVELOPER
+
+</div>
 
 ```text
-╔══════════════════════════════════════════════════════════╗
-║                 NAVNEET KUMAR // DEV                    ║
-╠══════════════════════════════════════════════════════════╣
-║ STATUS        : ONLINE                                  ║
-║ ROLE          : FRONTEND DEVELOPER                      ║
-║ EDUCATION     : B.Tech CSE                              ║
-║ UNIVERSITY    : United University                       ║
-║ LOCATION      : Prayagraj, India                        ║ ║
-║ CURRENT MODE  : BUILD • LEARN • CREATE                  ║
-╚══════════════════════════════════════════════════════════╝
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   NAVNEET KUMAR                                              │
+│                                                              │
+│   Computer Science Engineering Student                       │
+│   Frontend Developer                                         │
+│                                                              │
+│   I build modern, responsive and interactive web             │
+│   experiences with a strong focus on clean UI,              │
+│   practical functionality and continuous learning.           │
+│                                                              │
+│   CURRENTLY                                                   │
+│   ├── Building React applications                            │
+│   ├── Improving JavaScript & DSA                             │
+│   ├── Exploring full-stack development                       │
+│   └── Turning ideas into real-world projects                 │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-> 💡 **"I don't just write code — I build experiences."**
+> **I don't just write code. I build experiences.**
 
 ---
 
-# 🎬 ABOUT ME
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:00F7FF,100:7A00FF&height=3&section=header"/>
+## ◈ TECH STACK
 
-<h2>👨‍💻 Navneet Kumar</h2>
-
-<p>
-<b>Computer Science Engineering Student</b> •
-<b>Frontend Developer</b> •
-<b>React.js Developer</b>
-</p>
-
-<p>
-I build <b>interactive, responsive and visually engaging</b>
-web applications using modern technologies.
-</p>
-
-<table>
-<tr>
-<td align="center"><b>🎓 Education</b></td>
-<td>B.Tech Computer Science & Engineering</td>
-</tr>
-
-<tr>
-<td align="center"><b>🏫 University</b></td>
-<td>United University</td>
-</tr>
-
-<tr>
-<td align="center"><b>📍 Location</b></td>
-<td>Prayagraj, India</td>
-</tr>
-
-<tr>
-<td align="center"><b>🚀 Focus</b></td>
-<td>React • JavaScript • Firebase • DSA</td>
-</tr>
-
-<tr>
-<td align="center"><b>🎯 Goal</b></td>
-<td>Building Modern Digital Experiences</td>
-</tr>
-
-</tr>
-</table>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Learn+%E2%86%92+Build+%E2%86%92+Improve;Code+%E2%86%92+Create+%E2%86%92+Repeat;Always+Learning+%F0%9F%9A%80" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-</div>
-
----
-
-# ⚡ TECH ARSENAL
-
-<div align="center">
-
-### 💻 Languages
+### LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=c,python,js" />
 
-### 🌐 Frontend
+### FRONTEND
 
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+<img src="https://skillicons.dev/icons?i=html,css,react,vite" />
 
-### ☁️ Backend & Database
+### BACKEND & DATABASE
 
-<img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql" />
 
-### 🛠️ Tools
+### TOOLS
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </div>
 
 ---
 
-# 🎮 PROJECT UNIVERSE
-
 <div align="center">
+
+# ◈ SELECTED WORK
+
+### A few things I've built while learning, experimenting and solving real problems.
+
+</div>
+
+---
 
 ## 🥕 FARMER MARKETPLACE
 
-### Connecting Farmers Directly With Customers
+### `A DIGITAL MARKETPLACE FOR FARMERS & CUSTOMERS`
 
-```text
-              👨‍🌾 FARMER
-                  │
-                  ▼
-          📦 PRODUCT LISTING
-                  │
-                  ▼
-             👤 CUSTOMER
-                  │
-                  ▼
-               🛒 CART
-                  │
-                  ▼
-              📋 ORDER
-```
+A responsive marketplace designed to connect farmers directly with customers, allowing products to be discovered and purchased through a modern web interface.
 
-### 🧩 Tech Stack
+**Built with**
 
 `React.js` `Firebase` `Firestore` `HTML5` `CSS3`
 
-### ✨ Features
+**Highlights**
 
-* 👨‍🌾 Farmer marketplace
-* 🛒 Product browsing
-* 🔐 Firebase Authentication
-* ☁️ Firestore database
-* 📱 Responsive interface
-* 🔎 Product discovery
-
-</div>
+- 👨‍🌾 Farmer product marketplace
+- 🛍️ Product browsing and discovery
+- 🛒 Shopping cart experience
+- 🔐 Firebase Authentication
+- ☁️ Firestore database
+- 📱 Responsive UI
+- 🔎 Product categories and search
 
 ---
 
-<div align="center">
+## 🎨 SYNCSpace
 
-## 🍳 RECIPE APP
+### `REAL-TIME COLLABORATIVE DIGITAL WORKSPACE`
 
-### Interactive Recipe Discovery Platform
+A collaborative platform designed around real-time interaction, combining a shared code editor with an interactive whiteboard experience.
 
-### ⚡ Features
+**Built with**
 
-* 🔍 Recipe search
-* 🌎 API-powered recipes
-* 🧩 Dynamic recipe fetching
-* 🎨 Interactive UI
-* 📱 Responsive design
+`React.js` `Vite` `Node.js` `Express.js` `Socket.IO` `Yjs` `MongoDB` `Monaco Editor` `Konva.js`
 
-### 🧩 Tech Stack
+**Highlights**
+
+- ⚡ Real-time collaborative editing
+- 🧠 CRDT-based synchronization with Yjs
+- 💻 Monaco-powered code editor
+- 🖌️ Interactive collaborative whiteboard
+- 👥 Live cursor synchronization
+- 🔗 Room-based collaboration
+- 🗄️ MongoDB persistence
+
+> **One workspace. Multiple minds. Real-time collaboration.**
+
+---
+
+## 📋 AUDIT TRAIL
+
+### `EVENT-SOURCED INVENTORY & LOGISTICS LEDGER`
+
+A backend-focused system concept designed around event sourcing, immutable records and traceable inventory operations.
+
+**Built with**
+
+`Node.js` `MongoDB` `Event Sourcing`
+
+**Focus**
+
+- 📦 Inventory tracking
+- 🧾 Immutable event history
+- 🔍 Traceable operations
+- ⚡ Event-driven architecture
+- 🗄️ Persistent data storage
+
+> **Every action leaves a trace.**
+
+---
+
+## 🍳 RECIPE FINDER
+
+### `DISCOVER. SEARCH. COOK.`
+
+A lightweight recipe discovery application powered by an external recipe API.
+
+**Built with**
 
 `HTML` `CSS` `JavaScript` `REST API`
 
-</div>
+**Features**
+
+- 🔎 Recipe search
+- 🍽️ Dynamic recipe data
+- 🌐 API integration
+- 🎨 Interactive interface
+- 📱 Responsive design
+
+---
+
+## ☕ MINI CAFE MANAGEMENT
+
+### `A MODERN CAFE MANAGEMENT INTERFACE`
+
+A React-based cafe management application with Firebase-powered data storage.
+
+**Built with**
+
+`React.js` `Firebase` `Firestore`
+
+**Features**
+
+- 🧾 Order management
+- 👥 Customer handling
+- ☁️ Firestore integration
+- ⚡ Responsive interface
+- 🗂️ Structured data management
 
 ---
 
 <div align="center">
 
-## ☕ MINI CAFE MANAGEMENT SYSTEM
-
-### Modern Cafe Management Interface
-
-### ⚡ Features
-
-* 🧾 Order management
-* 👥 Customer handling
-* ⚡ Responsive React interface
-* ☁️ Firebase integration
-* 🗄️ Firestore database
-
-### 🧩 Tech Stack
-
-`React.js` `Firebase` `Firestore` `HTML` `CSS`
+## ◈ THE ENGINEERING MINDSET
 
 </div>
 
----
+```text
+                    ┌───────────────┐
+                    │     IDEA      │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │    EXPLORE    │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │     BUILD     │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │    DEBUG      │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │    IMPROVE    │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │    REPEAT     │
+                    └───────────────┘
+```
 
-# 📊 GITHUB COMMAND CENTER
+### 🧠 CURRENT FOCUS
+
+```text
+React.js             ████████████████████░░   BUILDING
+JavaScript           █████████████████░░░░   IMPROVING
+DSA                  ████████████████░░░░░   PRACTICING
+Firebase             ███████████████░░░░░░   BUILDING
+Backend Development  █████████████░░░░░░░   EXPLORING
+System Design        ██████████░░░░░░░░░░   LEARNING
+```
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=navneetsingh9240&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00F7FF&icon_color=7A00FF" width="49%" />
+## ◈ GITHUB ANALYTICS
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=navneetsingh9240&theme=tokyonight&hide_border=true&background=050505&ring=00F7FF&fire=7A00FF&currStreakLabel=00F7FF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=navneetsingh9240&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00F7FF&icon_color=7A00FF&text_color=FFFFFF" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=navneetsingh9240&theme=tokyonight&hide_border=true&background=050505&ring=00F7FF&fire=7A00FF&currStreakLabel=00F7FF" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneetsingh9240&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00F7FF" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneetsingh9240&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00F7FF&text_color=FFFFFF" />
 
 </div>
 
 ---
 
-# 🐍 CONTRIBUTION MATRIX
-
 <div align="center">
+
+## ◈ CONTRIBUTION MATRIX
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
@@ -242,175 +269,144 @@ web applications using modern technologies.
 
 ---
 
-# 🧠 CODING MODE
-
 <div align="center">
 
-### 🟢 PROBLEM SOLVING
+## ◈ PROBLEM SOLVING
 
-```text
-                 🧠 DSA
-                   │
-        ┌──────────┼──────────┐
-        ▼          ▼          ▼
-     Arrays     Strings    Searching
-        │          │          │
-        └──────────┼──────────┘
-                   ▼
-                Sorting
-                   │
-                   ▼
-               Recursion
-                   │
-                   ▼
-          Dynamic Programming
-                   │
-                   ▼
-            Problem Solving
-```
+### Turning problems into patterns.
 
-### 🏆 CODING PLATFORMS
+[![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-DSA-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
 
-[![LeetCode](https://img.shields.io/badge/LEETCODE-Problem%20Solving-FFA116?style=for-the-badge\&logo=leetcode)](https://leetcode.com/)
+<br/>
 
-[![GeeksForGeeks](https://img.shields.io/badge/GEEKSFORGEEKS-DSA-0F9D58?style=for-the-badge\&logo=geeksforgeeks)](https://www.geeksforgeeks.org/)
+`Arrays` · `Strings` · `Searching` · `Sorting` · `Recursion` · `Problem Solving`
 
 </div>
 
 ---
 
-# 🏆 ACHIEVEMENTS
-
 <div align="center">
 
-| 🏅 Achievement              | Status       |
-| --------------------------- | ------------ |
-| 🚀 49 Days Coding Challenge | ✅ Completed  |
-| 💻 DSA Practice             | 🔥 Active    |
-| 🌐 Frontend Projects        | 🚀 Building  |
-| 🧩 Full-Stack Projects      | 🚀 Exploring |
+# ◈ EXPERIENCE
 
 </div>
 
----
+### 💼 Frontend Development Intern — InternCertify
 
-# 🎓 EXPERIENCE & LEARNING
+**June 2025 – July 2025**
 
-### 💼 Frontend Development Internship
-
-**InternCertify — June–July 2025**
-
-Worked with:
+Worked on frontend development and responsive web interfaces using:
 
 `HTML` `CSS` `JavaScript` `React.js`
 
-Built responsive web interfaces and strengthened practical frontend development skills.
-
 ---
 
-### 💼 Web Development Internship
+### 💼 Web Development Intern — CodSoft
 
-**CodSoft — July–August 2025**
+**July 2025 – August 2025**
 
-Worked on responsive web pages while gaining practical experience with modern web development tools and practices.
+Gained practical experience in web development by building responsive interfaces and working with modern development practices.
 
 ---
 
 ### 🐍 NPTEL — The Joy of Computing Using Python
 
-**January–April 2026**
+**January 2026 – April 2026**
 
-12-week course focused on:
+12-week learning journey focused on:
 
-`Python` `Problem Solving` `Computational Thinking`
-
----
-
-# 🧪 CURRENTLY IN THE LAB
-
-```text
-╭────────────────────────────────────────────╮
-│              CURRENT MISSION               │
-├────────────────────────────────────────────┤
-│                                            │
-│  ⚛️ React.js          ████████████████░░ 90%│
-│  🟨 JavaScript        ██████████████░░░░ 75%│
-│  🧠 DSA               █████████████░░░░░ 70%│
-│  🔥 Firebase          ████████████░░░░░░ 65%│
-│  ⚙️ Backend            ███████████░░░░░░░ 60%│
-│                                            │
-╰────────────────────────────────────────────╯
-```
-
-> 🔭 Building projects
-> 🌱 Learning new technologies
-> 🧠 Solving DSA problems
-> 🎨 Experimenting with UI/UX
-> 🚀 Preparing for the next opportunity
+`Python` · `Problem Solving` · `Computational Thinking`
 
 ---
-
-# 🌌 MY DEVELOPER PHILOSOPHY
 
 <div align="center">
 
-### `CODE → CREATE → LEARN → IMPROVE → REPEAT`
+## ◈ ACHIEVEMENTS
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
-
-<br/>
-
-**"Every project is another level unlocked." 🎮**
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&pause=1500&color=7A00FF&center=true&vCenter=true&width=700&lines=Stay+Curious.;Keep+Building.;Keep+Learning.;Keep+Leveling+Up." />
+| | Achievement | Status |
+|:---:|---|:---:|
+| 🚀 | 49 Days Coding Challenge | `COMPLETED` |
+| 🧠 | DSA Practice | `ACTIVE` |
+| ⚛️ | Frontend Development | `BUILDING` |
+| 🌐 | Full-Stack Development | `EXPLORING` |
+| 🧩 | Real-World Projects | `BUILDING` |
 
 </div>
 
 ---
 
-# 📡 CONNECT WITH ME
+<div align="center">
+
+# ◈ WHAT'S NEXT?
+
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│       LEARN  →  BUILD  →  SHIP  →  GROW     │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+🔭 Building meaningful projects  
+🌱 Exploring full-stack development  
+🧠 Strengthening DSA & problem solving  
+🎨 Experimenting with modern UI/UX  
+🚀 Preparing for professional opportunities
+
+</div>
+
+---
 
 <div align="center">
 
-### 🌐 FIND ME ONLINE
+## ◈ DEVELOPER PHILOSOPHY
+
+<br/>
+
+### `BUILD SOMETHING WORTH REMEMBERING.`
+
+<br/>
+
+> **"Every project is another level unlocked."**
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=16&pause=1500&color=00F7FF&center=true&vCenter=true&width=700&lines=Stay+Curious.;Keep+Building.;Keep+Learning.;Keep+Leveling+Up." />
+
+</div>
+
+---
+
+<div align="center">
+
+# ◈ CONNECT
 
 <br/>
 
 <a href="https://github.com/navneetsingh9240">
-<img src="https://img.shields.io/badge/GitHub-navneetsingh9240-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:navneetsingh9240@gmail.com">
-<img src="https://img.shields.io/badge/Email-navneetsingh9240%40gmail.com-00F7FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br/><br/>
 
 <a href="https://www.instagram.com/_navneetsingh_11/">
-<img src="https://img.shields.io/badge/Instagram-@_navneetsingh_11-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/">
-<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:7A00FF,100:050505&height=3"/>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<br/>
+<br/><br/>
 
-**📧 [navneetsingh9240@gmail.com](mailto:navneetsingh9240@gmail.com)**
+**📧 navneetsingh9240@gmail.com**
 
-**🐙 github.com/navneetsingh9240**
-
-**📸 instagram.com/_navneetsingh_11**
+**📍 Prayagraj, India**
 
 </div>
 
@@ -418,15 +414,14 @@ Worked on responsive web pages while gaining practical experience with modern we
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A00FF,50:00F7FF,100:050505&height=120&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:7A00FF,100:00F7FF&height=140&section=footer&animation=twinkling"/>
 
-### ⚡ Thanks for visiting my profile
+### `THANKS FOR VISITING.`
 
-**If you like my work, consider ⭐ starring my repositories!**
+**⭐ Explore the repositories. Build something. Leave a star if you like it.**
 
 <br/>
 
-`© Navneet Kumar • Built with Code & Curiosity`
+`© Navneet Kumar · Code • Curiosity • Creation`
 
 </div>
-
