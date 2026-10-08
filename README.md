@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="assets/navneet-profile.png" width="340" alt="Navneet Kumar"/>
+<img src="navneet-profile.png" width="340" alt="Navneet Kumar"/>
 
 <br><br>
 
